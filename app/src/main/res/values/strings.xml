@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GlobDAM</string>
+    <string name="boton">Boton</string>
+    <string name="ingrese">Ingrese un número</string>
+    <string name="hola">Hola Mundo</string>
+    <string name="operacion">Operacion</string>
+    <string name="resultado">resultado</string>
+</resources>
